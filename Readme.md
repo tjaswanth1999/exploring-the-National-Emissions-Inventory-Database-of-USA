@@ -7,6 +7,7 @@ Data for this assignment is downloaded from :[Data](https://d396qusza40orc.cloud
 ## description of the work done
 All the 6 plots from `plot1` to `plot 6` deals with PM2.5 emissions in USA.
 The plots produced are as follows:
+
 `plot 1` - Total PM2.5 emission of PM2.5 in USA.
 
 `plot 2` - Total PM2.5 emission of PM2.5 in Baltimore city.
